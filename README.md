@@ -14,7 +14,7 @@
 <table align>
 <tr><th width="200">Proyecto</th><th>Descripción</th></tr>
 <tr>
-<td><a href="https://github.com/"><img src="https://img.shields.io/badge/DAW--general-blue?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://github.com/claguenav/DAW.git"><img src="https://img.shields.io/badge/DAW--general-blue?style=for-the-badge&logo=github" /></a></td>
 <td>Repositorio con todas las prácticas y proyectos realizados durante el grado de Desarrollo de Aplicaciones Web.</td>
 </tr>
 <tr>
