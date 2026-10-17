@@ -5,8 +5,6 @@
   ###  Estudiante de Desarrollo de Aplicaciones Web (DAW)
   *Aprendiendo cada día con mucha ilusión.*
 
-  <br>
-
   ### Sobre mí 
   ### ──────────── ୨ৎ ────────────
 </div>
@@ -26,8 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claguenav&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Lenguajes más usados" height="150" align="middle" />
 </p>
 
-<br>
-
 <div align="center">
 
   ### Tecnologías y Herramientas
@@ -36,8 +32,6 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" alt="Mis tecnologías" />
   </p>
-
-  <br>
 
   ### ──────────── ୨ৎ ────────────
   ###  Contacto
@@ -50,9 +44,4 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
   </p>
-
-  ### ════════════════════════════════════
-  ### 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　
-  ### ︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶⊹
-
 </div>
