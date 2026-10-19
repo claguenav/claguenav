@@ -46,7 +46,7 @@
 
 <div align="center">
 
-  ### 🛠️ Lenguajes y Tecnologías
+  ### Lenguajes y Tecnologías
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -66,16 +66,5 @@
   ---
 
   ### ──────────── ୨ৎ ────────────
-
-  ###  ¡Hablemos!
-
-  <p align="center">
-    <a href="mailto:claraguerreronavarro@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-    </a>
-    <a href="https://linkedin.com/in/clara-guerrero-navarro-65065030b" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a>
-  </p>
 
 </div>
