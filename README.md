@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/claguenav/DAW.git">
+      <a href="https://github.com/claguenav/clases.git">
         <img src="https://img.shields.io/badge/DAW--General-007396?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
