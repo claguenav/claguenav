@@ -36,17 +36,20 @@
 
 <br>
 
-<!-- ESTADÍSTICAS DE GITHUB -->
-<div align="center">
+ <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=claguenav&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="150" />
-  <br><br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claguenav&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Lenguajes más usados" height="150" />
+
 </div>
+
 
 <br>
 
-<div align="center">
 
+<div align="center"> 
+  
   ### Lenguajes y Tecnologías
 
   <p>
